@@ -397,6 +397,7 @@
 * [avogadro](https://sourceforge.net/projects/avogadro/) or [MolView](https://molview.org/) - Molecular Viewers / Editors
 * [Simuwaerm](https://github.com/file-acomplaint/simuwaerm) - Heat Simulator
 * [Electromagnetic Radiation Spectrum Chart](https://i.ibb.co/XCyQNB7/01930032e368.jpg)
+* [Open Source Society University (OSSU)](https://github.com/ossu/math)
 
 ***
 
